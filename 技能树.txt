@@ -1,0 +1,38 @@
+语言
+    java
+        "effect java"
+    python
+
+程序设计
+    design pattern
+        设计模式-刘伟
+    数据结构与算法
+
+程序开发
+    spring boot
+        "Spring Boot 权威指南":1:结束
+        "Spring Boot 实战,丁雪丰(译)":1:结束
+    spring cloud
+        "Spring Cloud微服务实战":1:187页
+高并发
+    lvs
+    nginx
+    memcached
+    redis
+    zookeeper
+    kafka
+    mysql
+
+大数据
+    linux
+    hadoop:hdfs, mapreduce
+    hive
+    sqoop/flume/oozie
+    hue
+    hbase
+    storm
+    scala
+    spark
+
+机器学习
+    
