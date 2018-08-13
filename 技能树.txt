@@ -15,21 +15,21 @@
     spring cloud
         "Spring Cloud微服务实战":1:187页
 高并发
-    lvs
-    nginx
-    memcached
-    redis
-    zookeeper
-    kafka
+    lvs:1:结束
+    nginx:1:结束
+    memcached:1:结束
+    redis:1:结束
+    zookeeper:1:结束
+    kafka:1:结束
     mysql
 
 大数据
     linux
-    hadoop:hdfs, mapreduce
+    hadoop:1:结束
     hive
     sqoop/flume/oozie
     hue
-    hbase
+    hbase:1:结束
     storm
     scala
     spark
